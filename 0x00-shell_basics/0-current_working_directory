@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/correction/3523274433910449575800862102885945900257_5/205/59548/0x00-shell_basics
+find / -type f 
