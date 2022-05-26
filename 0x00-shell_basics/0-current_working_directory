@@ -1,2 +1,2 @@
 #!/bin/bash
-type -a 0-current_working_directory
+type 0-current_working_directory
